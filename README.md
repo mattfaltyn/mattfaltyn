@@ -2,8 +2,7 @@
 
 Data platform engineer and quantitative researcher building reliable systems for applied science, digital assets, and research.
 
-- Building open-source data infrastructure at [Hypertrial](https://hypertrial.ai)
-- Leading analytics engineering for digital-asset staking at [Figment](https://figment.io)
+- Founding engineer building the data and probability platform at [OddsFox](https://www.oddsfox.io)
 - Leading data platform work at [Trilemma Foundation](https://trilemma.foundation)
 - Contributing correctness and reliability fixes across rocky, dlt, Apache Iceberg, Apache Polaris, OpenLineage, and Velox
 
