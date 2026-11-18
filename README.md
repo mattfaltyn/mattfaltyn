@@ -2,7 +2,7 @@
 
 Data platform engineer and quantitative researcher building reliable systems for applied science, digital assets, and research.
 
-- Founding engineer building the data and probability platform at [OddsFox](https://www.oddsfox.io)
+- Founding engineer at [Hypertrial](https://hypertrial.ai), building Mentat to check Git commits against approved contracts with behavior tests and Lean and Z3.
 - Leading data platform work at [Trilemma Foundation](https://trilemma.foundation)
 - Contributing correctness and reliability fixes across rocky, dlt, Apache Iceberg, Apache Polaris, OpenLineage, and Velox
 
