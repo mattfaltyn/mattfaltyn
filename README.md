@@ -2,7 +2,7 @@
 
 Software engineer building data systems and developer tools, with a focus on software correctness and verification.
 
-- Founding engineer at [Hypertrial](https://hypertrial.ai), building **Mentat** to check Git commits against approved contracts and produce reproducible evidence.
+- Founding engineer at [Hypertrial](https://hypertrial.ai), building **Mentat** for contract-based software verification.
 - Technical lead at [Trilemma Foundation](https://trilemma.foundation), developing open-source data and research infrastructure.
 - Contributing correctness and reliability fixes across rocky, dlt, Apache Iceberg, Apache Polaris, OpenLineage, and Velox.
 
