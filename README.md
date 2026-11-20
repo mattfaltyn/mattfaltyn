@@ -1,6 +1,6 @@
 # Matt Faltyn
 
-Software engineer and quantitative researcher building data systems and developer tools, with a focus on software correctness and verification.
+Software engineer and quant researcher building data systems and developer tools, with a focus on software correctness and verification.
 
 - Founding engineer at [Hypertrial](https://hypertrial.ai), building **Mentat** to check Git commits against approved contracts and produce reproducible evidence.
 - Technical lead at [Trilemma Foundation](https://trilemma.foundation), developing open-source data and research infrastructure.
